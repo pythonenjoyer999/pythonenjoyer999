@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Misha
+
 I’m currently working on a Python project
+
 I’m currently learning law at a university
+
 Ask me about anything
 <!--
 **pythonenjoyer999/pythonenjoyer999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
